@@ -1,7 +1,7 @@
-# Accessible Mega Menu
+# Accessible Menu
 =========================
 
-A demonstration of how to implement a keyboard and screen reader accessible mega menu as a jQuery plugin. It is modeled after the mega menu on [adobe.com](http://adobe.com/) but has been simplified for use by others. An brief explanation of our interaction design choices can be found in a blog post at [Mega menu accessibility on adobe.com](http://blogs.adobe.com/accessibility/2013/05/adobe-com.html).
+A demonstration of how to implement a keyboard and screen reader accessible dropdown/flyout menu as a vanilla JS plugin. Adobe's jQuery version was modeled after the mega menu on [adobe.com](http://adobe.com/) but was simplified for use by others. An brief explanation of Adobe's interaction design choices can be found in a blog post at [Mega menu accessibility on adobe.com](http://blogs.adobe.com/accessibility/2013/05/adobe-com.html).
 
 Content for the links and text within the mega menu comes from the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG/).
 
